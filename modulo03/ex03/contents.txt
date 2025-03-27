@@ -1,0 +1,3 @@
+Hello from the parent process!
+This is a test file being sent through a pipe.
+Let's see if the child process receives it correctly.
